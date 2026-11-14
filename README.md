@@ -64,7 +64,7 @@
 **If a hurricane hit** our coast, I **would use** drones and an emergency app to find affected families, and I **would send** food, water and doctors within hours.
 
 ### Scenario 2: A citizen report
-**If a citizen reported** a crime or a corrupt official in the government app, I **would make sure** it was investigated within 48 hours and the person got a reply.
+**If a citizen reported** a crime or a corrupt official in the government app, I **would make sure** it was investigated and the person got a reply.
 
 ---
 
